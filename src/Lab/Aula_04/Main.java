@@ -23,7 +23,7 @@ public class Main {
        banda.adicionarMusica(musica_1);
        banda.adicionarMusica(musica_2);
 
-        banda.tocarMusica(2);
+        banda.tocarMusica(3);
         banda.tocarShow();
         banda.deletarMusica("teste");
         banda.tocarShow();
