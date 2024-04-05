@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="21bf53ed-6397-40b7-a0c7-89582c48cc46" name="Changes" comment="Organize folders">
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/HardwareBasico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/MemoriaUSB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Teoria/PCMania/SistemaOperacional.java" afterDir="false" />
+    <list default="true" id="21bf53ed-6397-40b7-a0c7-89582c48cc46" name="Changes" comment="Exercício Aula 05">
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Bruxa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Feitico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Monstro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Vampiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab/Aula_06/Zumbi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,15 +59,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Lab" />
@@ -105,12 +109,30 @@
       <option name="project" value="LOCAL" />
       <updated>1711032209499</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criar e filanizar PCMania">
+      <option name="closed" value="true" />
+      <created>1711290474177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711290474177</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Exercício Aula 05">
+      <option name="closed" value="true" />
+      <created>1711296471981</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1711296471981</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criação" />
     <MESSAGE value="Organize folders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organize folders" />
+    <MESSAGE value="Criar e filanizar PCMania" />
+    <MESSAGE value="Exercício Aula 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercício Aula 05" />
   </component>
 </project>
