@@ -17,5 +17,6 @@ public class Main {
         bruxa.listarFeitico();
         System.out.println();
         bruxa.lancarFeitico(monstro,1);
+
     }
 }

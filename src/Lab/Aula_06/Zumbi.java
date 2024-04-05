@@ -6,7 +6,6 @@ public class Zumbi extends Monstro{
         int aux = mostroAlvo.getVida()-getEnergia();
         mostroAlvo.setVida(aux);
     }
-
     public Zumbi(int vida, int idade, int energia,int numeroDeCerebrosComidos) {
         super.setIdade(idade);
         super.setVida(vida);

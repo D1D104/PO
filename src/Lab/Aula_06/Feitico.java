@@ -15,7 +15,6 @@ public class Feitico {
     public void setNome(String nome) {
         this.nome = nome;
     }
-
     public void setPoder(int poder) {
         this.poder = poder;
     }

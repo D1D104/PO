@@ -9,7 +9,6 @@ public class Vampiro extends Monstro {
             formaDeMorcego = false;
         }
     }
-
     public void recuperarVida() {
         setVida(getVida() + medidorDeSangue);
     }

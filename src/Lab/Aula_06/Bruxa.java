@@ -27,7 +27,6 @@ public class Bruxa extends Monstro{
         int aux = feitico[posicao].getPoder();
         monstroAlvo.setVida(monstroAlvo.getVida()-aux);
     }
-
     public Bruxa(int idade, int vida, int energia) {
         super.setVida(vida);
         super.setEnergia(energia);
